@@ -1,0 +1,14 @@
+{
+  "name": "backend-dicoding",
+  "version": "1.0.0",
+  "description": "latihan 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "REZA NAGITA",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
